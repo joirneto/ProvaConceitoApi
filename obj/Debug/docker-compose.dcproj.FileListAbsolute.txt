@@ -1,0 +1,12 @@
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\ProvaConceitoApi.deps.json
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\ProvaConceitoApi.runtimeconfig.json
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\ProvaConceitoApi.runtimeconfig.dev.json
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\appsettings.Development.json
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\appsettings.json
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\ProvaConceitoApi.exe
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\ProvaConceitoApi.dll
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\Dapper.dll
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\bin\Debug\ProvaConceitoApi.pdb
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\f5109949\Documents\JOIR\PROGRAMANDO\projetos-github\PoC-api\ProvaConceitoApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
