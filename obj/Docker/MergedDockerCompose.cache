@@ -13,4 +13,18 @@ services:
     volumes:
     - C:\Users\f5109949\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
     - C:\Users\f5109949\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  sqldata:
+    container_name: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: '!Admin123*'
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+    - published: 5414
+      target: 1433
+    volumes:
+    - provaconceito_sqldata:/var/opt/mssql:rw
 version: '3.4'
+volumes:
+  provaconceito_sqldata:
+    external: false
