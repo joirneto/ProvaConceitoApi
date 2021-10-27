@@ -1,6 +1,15 @@
 version: '3.4'
 
 services:
+  sqldata:
+    container_name: sqlserver
+    environment:
+      - SA_PASSWORD=!Admin123*
+    ports:
+      - 5414:1433
+    volumes:
+      - provaconceito_sqldata:/var/opt/mssql
+
   provaconceitoapi:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
@@ -11,3 +20,7 @@ services:
     volumes:
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+
+volumes:
+  provaconceito_sqldata:
+    external: false
